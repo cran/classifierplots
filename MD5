@@ -1,5 +1,5 @@
-231b7da4bd50f4736c9bf317518ceeff *DESCRIPTION
-eb3a90c8f4a22cfe5c55f1c597278927 *LICENSE
+542dee2eb13376834070aed45da055c1 *DESCRIPTION
+3e044b9ba1189d89f0607745fc5fa8e1 *LICENSE
 822bedf236560a69e3bbcf1c6d5a76cf *NAMESPACE
 c9410b45ca11aa235de5f5f43a346453 *R/boxplot.R
 41168d492281eb3ffd9381b6528e6881 *R/calibration.R
@@ -12,7 +12,7 @@ f804ca6df92b7ec06b4128e7fee68722 *R/metrics.R
 1417ba2dd6bc5536c4fc6537c8bcb56a *R/notation_key.R
 b529723d75912d3ed186965a69ba4440 *R/positives.R
 206d3c8a1f3f0c6eb7a3aa9d6a27a94f *R/precision.R
-93c2a054384eba5e58537bf1087c1d0e *R/roc.R
+12a13fb22586b68a32e4a30c043fa865 *R/roc.R
 b0743cb4b279a7eadc42e4c54efd2aed *R/style.R
 b6f8add62385e99ddf2147622abdb838 *data/example_predictions.rda
 20833a7a11650464911659c926bfdd53 *inst/img/notation.png
